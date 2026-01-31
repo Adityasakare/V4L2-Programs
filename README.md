@@ -1,5 +1,5 @@
 # V4L2-Programs
-some of V4L2 basic programs 
+some of V4L2 basic programs which tested on 6.14.0-37-generic kernel version. 
 
 #### Use following commands 
 * make - For build
